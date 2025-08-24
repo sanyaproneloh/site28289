@@ -1,0 +1,21 @@
+header img{
+    height: 100px;
+     width: 100px;
+}
+main h2{
+    color: lightblue;
+    text-align: center;
+}
+header h1{
+    color: rgb(12, 206, 240);
+    text-align: center ;
+}
+header a{
+    color: rgb(2, 97, 106);
+    font-size: 20px;
+    text-decoration: none;
+    margin: 20px;
+    background-color: aquamarine;
+}
+footer p
+{font-size: 20px;}
